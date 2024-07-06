@@ -1,5 +1,6 @@
 {
     "name": "vesktop",
+    "repository": "borgaar/vesktop",
     "version": "1.5.2",
     "private": true,
     "description": "",
